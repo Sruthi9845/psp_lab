@@ -1,0 +1,15 @@
+triangle : https://scratch.mit.edu/projects/521631184
+circle : https://scratch.mit.edu/projects/521633604
+square : https://scratch.mit.edu/projects/521631868
+rectangle : https://scratch.mit.edu/projects/558032382
+pentagon : https://scratch.mit.edu/projects/521633104
+4 shapes in a single stage : https://scratch.mit.edu/projects/521630166
+finding area of cone : https://scratch.mit.edu/projects/521842827
+area of cylinder : https://scratch.mit.edu/projects/521852213
+area of circle : https://scratch.mit.edu/projects/521829694
+marks grading : https://scratch.mit.edu/projects/521864543
+converstion between two people : https://scratch.mit.edu/projects/526434762
+metaroids game : https://scratch.mit.edu/projects/527775523
+palindrome checking : https://scratch.mit.edu/projects/552782076
+mathematical operations: https://scratch.mit.edu/projects/528359280
+memory game : https://scratch.mit.edu/projects/528264963
